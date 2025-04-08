@@ -1,0 +1,11 @@
+.checkbox-container {
+  margin-left: 1rem;
+}
+
+.checkbox-label {
+  font: 1rem "Fira Sans", sans-serif;
+}
+
+.checkbox-input {
+  margin: 0.4rem;
+}
